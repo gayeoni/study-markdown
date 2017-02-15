@@ -167,10 +167,8 @@ _ 언더바
 
 ~~~~
 - [ ] task 1  
-- [O] task 2
 - [X] task 3
 ~~~~
 
 - [ ] task 1  
-- [O] task 2  
 - [X] task 3  
