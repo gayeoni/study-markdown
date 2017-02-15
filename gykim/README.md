@@ -1,4 +1,4 @@
-# gykim
+# gykim :+1:
 
 # MARK DOWN
 
@@ -163,5 +163,14 @@ _ 언더바
 ! 느낌표
 ~~~~
 
+##### 할일   
 
+~~~~
+- [ ] task 1  
+- [O] task 2
+- [X] task 3
+~~~~
 
+- [ ] task 1  
+- [O] task 2  
+- [X] task 3  
